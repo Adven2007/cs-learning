@@ -6,6 +6,8 @@
 <br>
 作业网站：[Harvard CS50P problem sets](https://cs50.harvard.edu/python/)<br>
 ## contents
+lecture notes<br>
+<br>
 topic 1&ensp;Functions, Variables<br>
 &emsp;&emsp;&emsp;exercises<br>
 topic 2&ensp;Conditionals<br>
