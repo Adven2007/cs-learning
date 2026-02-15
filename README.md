@@ -1,2 +1,2 @@
 # csai-learning
-Learning journey in computer science and artificial intelligence
+learning journey in computer science and artificial intelligence
